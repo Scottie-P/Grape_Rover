@@ -3,7 +3,7 @@
 # Abstract:
 
 
-#Purpose of the Study: 
+# Purpose of the Study: 
 Is it possible to record a vineyard row with a video from
 a rover and then feed this video through a program that will present the total
 grape cluster yield on that row? Can this be done for multiple rows? Can this be
@@ -36,7 +36,7 @@ a rover that will accomplish the task of recording a video? Not only will softwa
 be needed to process a video, but some sort of brain or steering system will be
 needed to drive the rover around a vineyard to record that video.
 
-#Procedure:
+# Procedure:
 By utilizing the real-time object detection algorithm, YOLO (You
 Only Look Once [19]), then one can count grape clusters in an image. This 
 algorithm allows one to train a complex neural network with their own classification
@@ -64,12 +64,13 @@ Implementation: It is helpful to think of this project in a few stages.
 2. Implement YOLO with a video, and incorporate some method to count accurately.
 3. Create a rover to navigate a vineyard and record a video of said vineyard.
 
-#Conclusions: 
+# Conclusions: 
 This project involves developing and testing a semi-autonomous
 rover that can drive through a vineyard with minimal input parameters. Once it
 has finished steering through a vineyard, a grape estimate will be produced using
 a trained computer vision algorithm.
-Scott will be graduating in May 2022 and hopes that one day the rover will
+
+Scott graduated Spring 2022 and hopes that one day the rover will
 help growers better estimate their yields while increasing efficiency in vineyard
 practices. Scott’s Data Mining class inspired this project in Fall 2019. The course
 was instructed by Dr. Shahrad Jamshidi, an advisor to the project, in addition
