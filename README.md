@@ -1,4 +1,4 @@
-# Grape_Rover, The Autonomous Yield Estimator
+# Grape_Rover : The Autonomous Yield Estimator
 
 For anyone intersted in the videp portions of the rover:
 https://sites.google.com/view/grape-rover/home
