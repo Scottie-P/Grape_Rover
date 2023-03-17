@@ -68,6 +68,7 @@ Implementation: It is helpful to think of this project in a few stages.
 2. Implement YOLO with a video, and incorporate some method to count accurately.
 3. Create a rover to navigate a vineyard and record a video of said vineyard.
 
+
 # Conclusions: 
 This project involves developing and testing a semi-autonomous
 rover that can drive through a vineyard with minimal input parameters. Once it
